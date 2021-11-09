@@ -1,4 +1,4 @@
-# Hype100SMP-Mods
+# [Hype100SMP-Mods](https://rotgruengelb.github.io/Hype100SMP-Mods/)
 [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)<br />
 [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)<br />
 [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)<br />
