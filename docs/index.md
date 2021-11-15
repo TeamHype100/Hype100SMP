@@ -39,4 +39,4 @@
 [Schwarz](https://modrinth.com/mod/schwarz)<br />
 [LuckPerms](https://modrinth.com/mod/luckperms)<br />
 [Diamond Economy](https://modrinth.com/mod/diamond-economy)<br />
-made by [rotgruengelb](linkt.ee/rgglab)
+made by [rotgruengelb](https://linkt.ee/rgglab)
