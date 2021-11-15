@@ -39,3 +39,5 @@
 [Schwarz](https://modrinth.com/mod/schwarz)<br />
 [LuckPerms](https://modrinth.com/mod/luckperms)<br />
 [Diamond Economy](https://modrinth.com/mod/diamond-economy)<br />
+made by [image](https://user-images.githubusercontent.com/75038404/141783744-43c090f1-43dd-4824-922d-9be2410371bb.png)
+
