@@ -1,8 +1,6 @@
 # [Hype100SMP](https://teamhype100.github.io/Hype100SMP)<br />
-  <br />
-  <br />
+&nbsp;<br />
 ## Server Mods<br />
-  <br />
 [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)<br />
 [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)<br />
 [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)<br />
@@ -43,4 +41,4 @@
 [Schwarz](https://modrinth.com/mod/schwarz)<br />
 [LuckPerms](https://modrinth.com/mod/luckperms)<br />
 [Diamond Economy](https://modrinth.com/mod/diamond-economy)<br />
-made by [rotgruengelb](https://linktr.ee/rgglab)
+**made by [rotgruengelb](https://linktr.ee/rgglab)**<br />
