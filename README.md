@@ -1,7 +1,7 @@
 # [Hype100SMP](https://teamhype100.github.io/Hype100SMP)<br />
-  <br />
+<br />
 ## Server Mods<br />
-  <br />
+<br />
 [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)<br />
 [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)<br />
 [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)<br />
